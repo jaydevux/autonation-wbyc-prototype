@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="343" height="72" viewBox="0 0 343 72">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_77526" data-name="Rectangle 77526" width="20.466" height="21.931" transform="translate(11 9)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_77532" data-name="Rectangle 77532" width="21" height="17" transform="translate(11 13)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_29495" data-name="Group 29495" transform="translate(-15 -3090)">
+    <text id="helpNumber" transform="translate(263 3159)" fill="#e61665" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">(855) 240-9561</tspan></text>
+    <g id="phoneIcon" transform="translate(289 3090)">
+      <circle id="Oval_2" data-name="Oval 2" cx="20" cy="20" r="20" transform="translate(1 1)" fill="none" stroke="#0a3453" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="phone">
+        <g id="Group_29083" data-name="Group 29083" clip-path="url(#clip-path)">
+          <path id="Fill_1-4" data-name="Fill 1-4" d="M27.252,30.931h0a14.2,14.2,0,0,1-4.891-1.016,17.179,17.179,0,0,1-6.689-4.684c-4.882-5.477-4.992-12.218-4.454-13.322A7.431,7.431,0,0,1,13.8,9.335a2.7,2.7,0,0,1,.711-.284A2.268,2.268,0,0,1,14.991,9a3.558,3.558,0,0,1,1.9.7l.012.008.214.141c1.083.587,1.675,5.163,1.662,5.34-.069.811-.712,1.425-1.936,2.526A12.716,12.716,0,0,0,19.2,21.522a17.527,17.527,0,0,0,3.721,3.087,6.253,6.253,0,0,1,2.4-1.588l.311-.031a17.989,17.989,0,0,1,2.541.711c1.087.382,2.438.967,2.7,1.588l.1.2a2.769,2.769,0,0,1-.035,3.116,7.392,7.392,0,0,1-2.874,2.23l-.175.046a3.633,3.633,0,0,1-.637.05ZM14.989,10.2a.951.951,0,0,0-.209.021,1.448,1.448,0,0,0-.36.142,6.338,6.338,0,0,0-2.128,2.081c-.186.491-.485,6.648,4.272,11.989a16.074,16.074,0,0,0,6.253,4.378,12.716,12.716,0,0,0,4.385.931,2.459,2.459,0,0,0,.452-.031h.014a6.447,6.447,0,0,0,2.357-1.864c.447-.533.187-1.194-.118-1.824l-.114-.227c-.358-.469-3.426-1.474-4.118-1.6l-.184.017A6.866,6.866,0,0,0,23.765,25.5a1.222,1.222,0,0,1-1.42.167,18.837,18.837,0,0,1-4.029-3.333A15.007,15.007,0,0,1,15.7,18.2a1.3,1.3,0,0,1,.32-1.358c.952-.858,1.533-1.4,1.562-1.746-.014-.55-.682-3.825-1.119-4.247l-.213-.139a2.551,2.551,0,0,0-1.261-.51Z" fill="#0a3453"/>
+        </g>
+      </g>
+    </g>
+    <text id="liveChat" transform="translate(164 3159)" fill="#e61665" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">Live chat</tspan></text>
+    <g id="chatBubbleIcon" transform="translate(194 3111)">
+      <g id="Chat_Bubble_Outline" data-name="Chat Bubble Outline" transform="translate(-20 -20)">
+        <g id="Phone_Copy" data-name="Phone Copy" transform="translate(-1 -1)">
+          <circle id="Oval_2-2" data-name="Oval 2-2" cx="20" cy="20" r="20" transform="translate(1 1)" fill="none" stroke="#0a3453" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+        <g id="Group_8" data-name="Group 8" transform="translate(-1 -1)">
+          <g id="chat_icon_-_outline" data-name="chat icon - outline">
+            <path id="Clip_2-17" data-name="Clip 2-17" d="M11,13H32V30H11Z" fill="none"/>
+            <g id="Group_3-9" data-name="Group 3-9">
+              <g id="Group_29094" data-name="Group 29094" clip-path="url(#clip-path-2)">
+                <g id="Group_3-10" data-name="Group 3-10">
+                  <path id="Fill_1-6" data-name="Fill 1-6" d="M12.674,30h-.265a1.4,1.4,0,0,1-1.215-.7,1.365,1.365,0,0,1,.155-1.61,13.875,13.875,0,0,0,1.744-2.615A6.45,6.45,0,0,1,11.415,20.8a7,7,0,0,1,3.037-5.52A12.093,12.093,0,0,1,21.73,13C27.393,13,32,16.5,32,20.8s-4.607,7.8-10.27,7.8a13.394,13.394,0,0,1-3.512-.458A23.492,23.492,0,0,1,12.674,30Zm9.034-15.117c-4.54,0-8.233,2.684-8.233,5.984A4.954,4.954,0,0,0,14.961,24.3a.568.568,0,0,1,.1.634,14.7,14.7,0,0,1-1.928,2.932.183.183,0,0,0-.02.2.149.149,0,0,0,.13.081h.03a20.6,20.6,0,0,0,4.94-1.685.613.613,0,0,1,.262-.06.444.444,0,0,1,.139.021,10.634,10.634,0,0,0,3.073.436c4.529,0,8.213-2.685,8.213-5.985S26.226,14.883,21.708,14.883Z" fill="#0a3453"/>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="sendMessage" transform="translate(15 3159)" fill="#e61665" font-size="14" font-family="Arial-BoldMT, Arial" font-weight="700" letter-spacing="-0.005em"><tspan x="0" y="0">Send a message</tspan></text>
+    <g id="mailIcon" transform="translate(15 543)">
+      <g id="Chat_Bubble_Outline-2" data-name="Chat Bubble Outline" transform="translate(55 2568)">
+        <g id="Chat_Bubble_Outline-3" data-name="Chat Bubble Outline" transform="translate(-20 -20)">
+          <g id="Phone_Copy-2" data-name="Phone Copy" transform="translate(-1 -1)">
+            <circle id="Oval_2-2-2" data-name="Oval 2-2" cx="20" cy="20" r="20" transform="translate(1 1)" fill="none" stroke="#0a3453" stroke-miterlimit="10" stroke-width="2"/>
+          </g>
+          <g id="Email" transform="translate(19.925 19.8)">
+            <path id="Email-2" data-name="Email" d="M19.851,13.825A1.777,1.777,0,0,1,18.079,15.6H1.772A1.777,1.777,0,0,1,0,13.825V1.773A1.777,1.777,0,0,1,1.772,0H18.079a1.777,1.777,0,0,1,1.772,1.773ZM18.079,1.418H1.772a.364.364,0,0,0-.354.355A4,4,0,0,0,3.046,4.919Q5.273,6.663,7.489,8.43c.587.477,1.65,1.5,2.426,1.5h.022c.775,0,1.839-1.019,2.426-1.5q2.21-1.761,4.442-3.512a4.316,4.316,0,0,0,1.628-2.736C18.434,1.905,18.5,1.418,18.079,1.418Zm.354,3.9a5.909,5.909,0,0,1-.764.731c-1.584,1.219-3.18,2.459-4.719,3.745a5.134,5.134,0,0,1-3.013,1.551H9.914A5.134,5.134,0,0,1,6.9,9.793C5.362,8.508,3.767,7.267,2.182,6.048a5.909,5.909,0,0,1-.764-.731v8.508a.364.364,0,0,0,.354.354H18.079a.364.364,0,0,0,.354-.354Z" transform="translate(-9.925 -7.8)" fill="#0a3453"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

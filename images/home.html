@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="Jair Barrios - UX Designer" content="AutoNationWBYC Prototype" />
+
+	<!-- Your Stylesheets, Scripts & Title
+	============================================= -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,400i,700|Raleway:300,400,500,600,700|Crete+Round:400i" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+	<link rel="stylesheet" href="css/swiper.css" type="text/css" />
+	<link rel="stylesheet" href="css/dark.css" type="text/css" />
+	<link rel="stylesheet" href="css/font-icons.css" type="text/css" />
+	<link rel="stylesheet" href="css/animate.css" type="text/css" />
+    <link rel="stylesheet" href="css/magnific-popup.css" type="text/css" />
+    <link rel="stylesheet" href="css/custom.css" type="text/css" />
+
+	<link rel="stylesheet" href="css/responsive.css" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <!-- Document Title
+	============================================= -->
+	<title>AutoNation | Would Buy Your Car</title>
+
+</head>
+<body>
+
+	<!-- The Main Wrapper
+	============================================= -->
+	<div id="wrapper" class="clearfix">
+
+		<!-- Header
+		============================================= -->
+		<header id="header"  class="transparent-header full-header" data-sticky-class="not-dark">
+
+                <div id="header-wrap">
+                        <div class="container clearfix">
+
+                            <div id="primary-menu-trigger"><object type="image/svg+xml" data="assets/menu-icon.svg">
+                                Your browser does not support SVG
+                              </object> </div>
+                            <!-- Logo
+                            ============================================= -->
+                            <div id="logo">
+                                <a href="index.html" class="standard-logo" data-dark-logo="assets/an-logo.png"><img src="assets/an-logo.png" alt="Canvas Logo"></a>
+                                <a href="index.html" class="retina-logo" data-dark-logo="assets/an-logo@2x.png"><img src="assets/an-logo@2x.png" alt="Canvas Logo"></a>
+                            </div><!-- #logo end -->
+
+                        </div>   
+                </div>    
+
+        </header>
+        
+        
+
+		<!-- Site Content
+		============================================= -->
+		<section id="content">
+
+			<div class="content-wrap">
+
+                    <section>
+                            <div class="hero">
+                                <div class="hero-text">
+                                    <div class="hero-headline">Sell or trade my car</div>
+                                    <div class="hero-subheadline">The free and easy way to appraise your car</div>
+                                </div>
+                                
+                            </div>
+                        </section>
+
+				<div class="container clearfix">
+                    <div class="home-toogle">
+
+                            <div class="switch-button"><span class="active"></span>
+                                <button class="switch-button-case left active-case" onclick="toggle_visibility('box-license-plate'); toggle_visibility('box-vin'); " >LICENSE PLATE</button>
+                                <button class="switch-button-case right" onclick="toggle_visibility('box-vin'); toggle_visibility('box-license-plate');">ENTER VIN</button>
+                              </div>
+
+                        <div id="box-license-plate" class="box-switch" style="display:block;"> 
+                                <div class="form-row boxInputs">
+                                        <div class="form-group boxInputLicPlate">                                      
+                                            <input type="text" class="form-control" id="inputCity" placeholder="License Plate Number">
+                                        </div>
+                                        <div class="form-group boxInputState">
+                                            
+                                            <select id="inputState" class="form-control">
+                                                <option selected>State</option>
+                                                <option value="AL">AL</option>
+                                                <option value="AK">AK</option>
+                                                <option value="AR">AR</option>	
+                                                <option value="AZ">AZ</option>
+                                                <option value="CA">CA</option>
+                                                <option value="CO">CO</option>
+                                                <option value="CT">CT</option>
+                                                <option value="DC">DC</option>
+                                                <option value="DE">DE</option>
+                                                <option value="FL">FL</option>
+                                                <option value="GA">GA</option>
+                                                <option value="HI">HI</option>
+                                                <option value="IA">IA</option>	
+                                                <option value="ID">ID</option>
+                                                <option value="IL">IL</option>
+                                                <option value="IN">IN</option>
+                                                <option value="KS">KS</option>
+                                                <option value="KY">KY</option>
+                                                <option value="LA">LA</option>
+                                                <option value="MA">MA</option>
+                                                <option value="MD">MD</option>
+                                                <option value="ME">ME</option>
+                                                <option value="MI">MI</option>
+                                                <option value="MN">MN</option>
+                                                <option value="MO">MO</option>	
+                                                <option value="MS">MS</option>
+                                                <option value="MT">MT</option>
+                                                <option value="NC">NC</option>	
+                                                <option value="NE">NE</option>
+                                                <option value="NH">NH</option>
+                                                <option value="NJ">NJ</option>
+                                                <option value="NM">NM</option>			
+                                                <option value="NV">NV</option>
+                                                <option value="NY">NY</option>
+                                                <option value="ND">ND</option>
+                                                <option value="OH">OH</option>
+                                                <option value="OK">OK</option>
+                                                <option value="OR">OR</option>
+                                                <option value="PA">PA</option>
+                                                <option value="RI">RI</option>
+                                                <option value="SC">SC</option>
+                                                <option value="SD">SD</option>
+                                                <option value="TN">TN</option>
+                                                <option value="TX">TX</option>
+                                                <option value="UT">UT</option>
+                                                <option value="VT">VT</option>
+                                                <option value="VA">VA</option>
+                                                <option value="WA">WA</option>
+                                                <option value="WI">WI</option>	
+                                                <option value="WV">WV</option>
+                                                <option value="WY">WY</option>
+                                            </select>
+                                        </div>
+                                </div>
+
+                                <a href="your-vehicle-license-plate.html" class="button-pill button-circle button-pink"></i>GET MY OFFER</a>
+                                <div class="boxOrLinks">
+                                    <span class="or-divider">OR</span>
+                                    <div class="noInfoLink">
+                                            <a href="#">Don’t have your license plate number or VIN?</a>
+                                    </div>
+                                    <div class="estimateLink">
+                                            <a  href="#">Get an estimate</a>
+                                    </div>
+                                </div>                               
+                        </div>
+
+                        
+                        <div id="box-vin"  class="box-switch-vin" style="display:none;"> 
+                                <div class="form-row boxInputsVin">
+                                        <div class="form-group boxInputVin">                                      
+                                            <input type="text" class="form-control" id="inputCity" placeholder="Enter VIN">
+                                        </div>                                       
+                                        <div class="clearfix"></div>
+                                        <div class="estimateLinkVin">
+                                               <a  href="#">Where is my VIN?</a>
+                                        </div>
+                                </div>
+
+                                <a href="your-vehicle-license-plate.html" class="button-pill button-circle button-pink"></i>GET MY OFFER</a>
+                                <div class="boxOrLinks">
+                                    <span class="or-divider">OR</span>
+                                    <div class="noInfoLink">
+                                            <a href="#">Don’t have your license plate number or VIN?</a>
+                                    </div>
+                                    <div class="estimateLink">
+                                            <a  href="#">Get an estimate</a>
+                                    </div>
+                                </div>                               
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="reasons-container col_full">
+
+                        <div class="reason-headline center">We’ll buy your car.<br>No purchase necessary.</div>
+                        <div class="col_one_third nobottommargin center">
+                                
+                                <div class="icon-reason"><img src="assets/hassleIcon.svg" alt=""></div>
+                                <div class="reason-subheadline">Selling your car with AutoNation<br> 
+                                        is never a hassle.</div>
+                                <p class="p-reason">We’ll buy your car and you don’t have to buy one
+                                from us. Other dealers don’t want to talk to you, unless 
+                                you’re buying one of their cars. So, if you just want
+                                to sell your vehicle, we’re ready when you are.</p>
+                        </div>
+
+                        <div class="col_one_third nobottommargin center reason ">
+                                
+                                <div class="icon-reason"><img src="assets/certifiedOfferIcon.svg" alt=""></div>
+                                <div class="reason-subheadline">A free certified offer in a snap.</div>
+                                <p class="p-reason">In our stores, online or on the phone, AutoNation
+                                        will give you a certificate with the exact dollar offer
+                                        for your car or truck in as fast as 30 minutes.</p>
+                        </div>
+
+                        <div class="col_one_third nobottommargin center  reason col_last">
+                            
+                                <div class="icon-reason"><img src="assets/calendarIcon.svg" alt=""></div>
+                                <div class="reason-subheadline">Offer good for 7 days<br>
+                                        or 500 additional miles.</div>
+                                <p class="p-reason">Other dealers and websites will give you an estimate. 
+                                        At AutoNation, your certified offer is good for cash and 
+                                        guaranteed for 7 days or 500 miles. In fact, you can 
+                                        redeem your offer at any AutoNation store.</p>
+                        </div>
+
+                    </div> 
+                </div>
+                
+                <div class="howItWorks-bckg">
+
+                        <div class="container clearfix">
+
+                                <div class="reasons-container col_full">
+            
+                                    <div class="reason-headline center">How it works</div>
+                                    <div class="video-img">
+                                        <img src="assets/videoHowItWorks.png" alt="">
+                                    </div>
+                                    <div class="col_one_third nobottommargin center">
+                                            
+                                            <div class="icon-reason"><img src="assets/elipse1.svg" alt=""></div>
+                                            <div class="reason-subheadline">Tell us about your car</div>
+                                            <p class="p-reason">Use your license plate or VIN to easily provide your 
+                                                vehicle information.Then share photos or describe the physical 
+                                                condition of your vehicle.</p>
+                                    </div>
+            
+                                    <div class="col_one_third nobottommargin center reason ">
+                                            
+                                            <div class="icon-reason"><img src="assets/elipse2.svg" alt=""></div>
+                                            <div class="reason-subheadline">Get a certified offer within 30 minutes</div>
+                                            <p class="p-reason">AutoNation will contact you with a competitive offer. 
+                                                    Our offers are good for 7 days or 500 miles and remain 
+                                                    the same whether you sell or trade in.</p>
+                                    </div>
+            
+                                    <div class="col_one_third nobottommargin center  reason col_last">
+                                        
+                                            <div class="icon-reason"><img src="assets/elipse3.svg" alt=""></div>
+                                            <div class="reason-subheadline">Redeem our offer at any AutoNation store</div>
+                                            <p class="p-reason">We’ll do a inspection of your car to verify its condition. 
+                                                    Once everything checks out, you can accept payment, 
+                                                    apply to a trade in, or consider our offer for 7 days.</p>
+                                    </div>
+            
+                                </div> 
+                        </div>
+
+
+                </div>
+
+
+                <div class="container clearfix">
+
+                        <div class="reasons-container col_full">
+    
+                            <div class="reason-headline center" style="margin-top: 40px; ">Benefits of trading in</div>
+                            <div style="margin-bottom:30px; text-align: center; ">
+                                <img src="assets/monicaSuv.png" alt="">
+                            </div>
+                            <div class="col_one_third nobottommargin center">
+                                     
+                                    <div class="reason-subheadline">Save time and effort</div>
+                                    <p class="p-reason">Selling your car privately can be a hassle. You have to do things like run classified ads, field phone calls and have strangers come to your house for test drives. Then of course, you’ll have to negotiate.</p>
+
+                                            <p class="p-reason"></p>You also need to ensure your car is maintained and all parts are working. This is a worry and expense on your part, including fixing brakes, tires and other pricey items. Trading in with us avoids all these inconveniences.</p>
+                            </div>
+    
+                            <div class="col_one_third nobottommargin center reason ">
+                                    
+                                    <div class="reason-subheadline">Lower how much you need to finance</div>
+                                    <p class="p-reason">When you trade in your vehicle, AutoNation will be 
+                                            essentially purchasing your car from you. We will apply 
+                                            the purchase amount to the total price of the vehicle 
+                                            you want to purchase. This means that you could 
+                                            significantly lower monthly payments for a financed 
+                                            vehicle</p>
+
+                                        
+                            </div>
+    
+                            <div class="col_one_third nobottommargin center  reason col_last">
+                                
+                                    <div class="reason-subheadline">Save on taxes</div>
+                                    <p class="p-reason">When you trade in your vehicle when purchasing 
+                                            another, you only pay sales tax on the difference 
+                                            between the trade in value and the price of the new car 
+                                            - that means more money for you!</p>
+                            </div>
+
+                            <div class="save-math-img">
+                                    <img src="assets/saveMath.svg" alt="">
+                            </div>
+                            
+    
+                        </div> 
+                </div>
+
+            
+            <div class="questionsHelp">
+                <div class="container clearfix">
+                    <div>
+                        <div class="reason-headline center">Questions? We’re here to help</div>
+                        <img src="assets/helpIcons.svg" alt="">
+                    </div>
+                        
+                </div>
+            </div>
+
+
+		</section>
+
+		<!-- Footer
+		============================================= -->
+		<footer id="footer" class="dark">
+
+			<div class="container">
+
+                    <div class="containerfooterImg">
+                            <img src="assets/footerLinks.svg" alt="">
+                    </div>
+
+			</div>
+
+
+		</footer>
+
+	</div>
+
+	
+<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="icon-angle-up"></div>
+	<!-- External JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/switch.js"></script>
+
+	<!-- Footer Scripts
+	============================================= -->
+    <script src="js/functions.js"></script>
+    
+
+    
+</body>
+</html>
+
+

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="329" height="58" viewBox="0 0 329 58">
+  <g id="Group_29498" data-name="Group 29498" transform="translate(-21 -54)">
+    <rect id="Rectangle_78320" data-name="Rectangle 78320" width="63" height="2" transform="translate(56 63)" fill="#d9d9d9"/>
+    <text id="Vehicle_details" data-name="Vehicle
+details" transform="translate(41 95)" fill="#0a3453" font-size="12" font-family="ArialMT, Arial"><tspan x="-19.348" y="0">Vehicle</tspan><tspan x="-17.344" y="14">details</tspan></text>
+    <text id="Vehicle_condition" data-name="Vehicle
+condition" transform="translate(134 95)" fill="#0a3453" font-size="12" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-20.681" y="0">Vehicle</tspan><tspan x="-26.994" y="14">condition</tspan></text>
+    <text id="Contact_information" data-name="Contact
+information" transform="translate(227 95)" fill="#5c5c5c" font-size="12" font-family="ArialMT, Arial"><tspan x="-20.678" y="0">Contact</tspan><tspan x="-29.681" y="14">information</tspan></text>
+    <text id="Review_and_submit" data-name="Review
+and submit" transform="translate(320 95)" fill="#5c5c5c" font-size="12" font-family="ArialMT, Arial"><tspan x="-19.673" y="0">Review</tspan><tspan x="-29.35" y="14">and submit</tspan></text>
+    <rect id="Rectangle_78315" data-name="Rectangle 78315" width="63" height="2" transform="translate(56 63)" fill="#0a3453"/>
+    <g id="Ellipse_156" data-name="Ellipse 156" transform="translate(124 54)" fill="#fff" stroke="#0a3453" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9" fill="none"/>
+    </g>
+    <g id="Ellipse_157" data-name="Ellipse 157" transform="translate(217 54)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <g id="Ellipse_158" data-name="Ellipse 158" transform="translate(310 54)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <rect id="Rectangle_78317" data-name="Rectangle 78317" width="63" height="2" transform="translate(149 63)" fill="#d9d9d9"/>
+    <rect id="Rectangle_78319" data-name="Rectangle 78319" width="63" height="2" transform="translate(242 63)" fill="#d9d9d9"/>
+    <path id="Path_217047" data-name="Path 217047" d="M3,0A3,3,0,1,1,0,3,3,3,0,0,1,3,0Z" transform="translate(131 61)" fill="#0a3453"/>
+    <g id="Group_29293" data-name="Group 29293" transform="translate(-3 1)">
+      <g id="Ellipse_143" data-name="Ellipse 143" transform="translate(34 53)" fill="#0a3453" stroke="#0a3453" stroke-width="1">
+        <circle cx="10" cy="10" r="10" stroke="none"/>
+        <circle cx="10" cy="10" r="9.5" fill="none"/>
+      </g>
+      <g id="Checkmark" transform="translate(48 66.5)">
+        <g id="cheeckmark_copy" data-name="cheeckmark copy" transform="translate(-9 -6.5)">
+          <path id="Shape-4" d="M3.167,5.722.778,3.444,0,4.222l3.167,3L10,.778,9.222,0Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_78412" data-name="Rectangle 78412" width="15" height="2" transform="translate(149 63)" fill="#0a3555"/>
+  </g>
+</svg>
